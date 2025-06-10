@@ -19,6 +19,7 @@ Use bullet points. Highlight positives in green and risks in red. Use a friendly
 
 ```
 
+
 🛠️ Tools Used
 
 🤖 ChatGPT (OpenAI) – For generating AI-powered responses
@@ -26,6 +27,7 @@ Use bullet points. Highlight positives in green and risks in red. Use a friendly
 📝 Markdown – For structuring and formatting the content
 
 💻 GitHub – For hosting and sharing the project
+
 
 🛡️ Signs of a Ransomware Attack:
 
@@ -35,13 +37,15 @@ Use bullet points. Highlight positives in green and risks in red. Use a friendly
 
 ✅ System logs show abnormal file access
 
-✅ How to Protect:
+
+🔒 How to Protect:
 
 ✅ Keep backups of critical files
 
 ✅ Don’t open suspicious attachments
 
 ✅ Use antivirus with real-time protection
+
 
 📖 What I Learned
 
