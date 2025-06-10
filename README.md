@@ -1,2 +1,52 @@
-# -AI-Powered-Cybersecurity-Awareness-Bot
-A project showcasing prompt engineering to simplify cybersecurity topics for beginners
+# 🧠 AI-Powered Cybersecurity Awareness Bot
+
+A no-code project that uses **prompt engineering with ChatGPT** to simplify cybersecurity topics for beginners.
+
+---
+
+## 📌 What It Does
+
+This AI-based project leverages prompt engineering to deliver cybersecurity awareness content in an easy, friendly, and accessible format — perfect for training, awareness sessions, or non-technical audiences.
+
+---
+
+## 💡 Sample Prompt Used
+
+```bash
+Act as a Cybersecurity Expert. 
+Explain what are the signs of a 'ransomware attack' and what steps we need to take to protect our system. 
+Use bullet points. Highlight positives in green and risks in red. Use a friendly, short tone.
+
+```
+
+🛠️ Tools Used
+
+🤖 ChatGPT (OpenAI) – For generating AI-powered responses
+
+📝 Markdown – For structuring and formatting the content
+
+💻 GitHub – For hosting and sharing the project
+
+🛡️ Signs of a Ransomware Attack:
+
+🟥 Files get encrypted with strange extensions
+
+🟥 Sudden ransom messages asking for payment
+
+✅ System logs show abnormal file access
+
+✅ How to Protect:
+
+✅ Keep backups of critical files
+
+✅ Don’t open suspicious attachments
+
+✅ Use antivirus with real-time protection
+
+📖 What I Learned
+
+How to use prompt engineering to guide AI responses clearly
+
+The importance of tone, format, and structure in AI-generated content
+
+How to turn AI responses into educational tools without writing code
