@@ -54,3 +54,6 @@ How to use prompt engineering to guide AI responses clearly
 The importance of tone, format, and structure in AI-generated content
 
 How to turn AI responses into educational tools without writing code
+
+![image](https://github.com/user-attachments/assets/e83b4516-1862-4ff6-8950-36a9f699bf8b)
+
