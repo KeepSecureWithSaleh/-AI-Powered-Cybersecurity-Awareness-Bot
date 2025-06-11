@@ -58,5 +58,5 @@ The importance of tone, format, and structure in AI-generated content
 
 How to turn AI responses into educational tools without writing code
 
-![image](https://github.com/user-attachments/assets/e83b4516-1862-4ff6-8950-36a9f699bf8b)
+![image](https://github.com/user-attachments/assets/75a51f18-47fa-4df1-b59c-262dad70f5a9)
 
